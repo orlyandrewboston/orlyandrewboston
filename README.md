@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @orlyandrewboston
-- 👀 I’m interested in sports analytics
+- 👀 I’m interested in tennis analytics
 - 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate 
+- 💞️ I’m looking to collaborate
 - 📫 orlyandrew.boston@store.lowes.com
 
 <!---
